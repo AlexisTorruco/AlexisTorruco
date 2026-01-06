@@ -74,6 +74,8 @@ Plataforma full stack desarrollada como **Proyecto Final del Bootcamp Henry**, o
 
 ## 📫 Contacto
 
+- 📧 Email: altorrucoc@hotmail.com
+- 📧 Email (opción 2): altorrucoc@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/alexis-torruco
 - 💻 GitHub: https://github.com/AlexisTorruco
 
