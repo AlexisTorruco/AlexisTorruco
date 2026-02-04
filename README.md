@@ -66,7 +66,7 @@ Plataforma full stack desarrollada como **Proyecto Final del Bootcamp Henry**, o
 
 ## 🤝 Qué estoy buscando
 
-- Oportunidades como **Backend Developer Jr / Trainee**
+- Oportunidades como **Backend Developer**
 - Colaborar en proyectos reales o startups
 - Equipos donde pueda seguir creciendo técnicamente
 
